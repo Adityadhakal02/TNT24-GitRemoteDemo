@@ -1,2 +1,3 @@
-# TNT24-GitRemoteDemo
+# Git Remote Demo
 This is a repository that demonstrates how to use Github remote
+This is a small change in README to push to remote
